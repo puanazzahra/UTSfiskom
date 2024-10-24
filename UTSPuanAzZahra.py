@@ -7,7 +7,7 @@ from matplotlib.patches import Circle
 
 st.title("Fisika Komputasi Awan")
 st.title("Puan Az Zahra Adha Wahyudi")
-st.title("NIM 220322604060 :love: ")
+st.title("NIM 220322604060 :heartpulse: ")
 circle = Circle((0, 0), 1, color='red', fill=False, linewidth=2, linestyle='-', alpha=0.2)
 x = []
 y = []
